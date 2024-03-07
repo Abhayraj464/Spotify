@@ -20,7 +20,7 @@ Data Visualization : Seaborn, Matplotlib
 ## Key Findings
 
 1. Spotify generated highest revenue on December 2022.
-2. Average cost spend on sales and marketing is 243.84, Resaerch and Development is 203.0 and General and Administrative is 102.36.
+2. Average cost spend on sales and marketing is 243.84, Research and Development is 203.0 and General and Administrative is 102.36.
 3. For Research and Development cost spend is increasing as the month increases.
 4. Premium Average Revenue Per User us decreasing as the month increases.
 5. Premium MAUs(Most Active Users) and Ad MAUs are increasing, in that most MAUs are using advertisment containing Spotify.
