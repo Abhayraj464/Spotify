@@ -25,7 +25,7 @@ Data Visualization : Seaborn, Matplotlib
 4. Premium Average Revenue Per User us decreasing as the month increases.
 5. Premium MAUs(Most Active Users) and Ad MAUs are increasing, in that most MAUs are using advertisment containing Spotify.
 6. Reports from 30-06-2020,31-03-2017,31-03-2023,31-03-2020 & 31-03-2022 months show negative Ad gross profits, Which affects Ad revenue and lead to Total Revenue.
-7. Total active users are more on 31-03-2023 when compared to 31-12-2022, but while checking total revenue generated,on Decemder 2022 generated more than March 2023.
+7. Total active users are more on 31-03-2023 when compared to 31-12-2022, but while checking total revenue generated,on December 2022 generated more than March 2023.
 
 
 
